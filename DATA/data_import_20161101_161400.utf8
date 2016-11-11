@@ -1,0 +1,545 @@
+de advocaat;the lawyer;noun;16 
+de advocaten;the lawyers;noun;16 
+de man;the man;noun;8 
+de mannen;the men;noun;8 
+de jongen;the boy;noun;8 
+de jongens;the boys;noun;8 
+de vrouw;the woman;noun;8 
+de vrouwen;the women;noun;8 
+de vriend;the boyfriend;noun;8 
+de vriendin;the girlfriend;noun;8 
+de vrinden;the friends;noun;8 
+de vriendinnen;the girlfriends;noun;8 
+de vriendjes;the boyfriends;noun;8 
+het kind;the kid;noun;8 
+de kinderen;the kids;noun;8 
+het meisje;the girl;noun;8 
+de meisjes;the girls;noun;8 
+de collega;the colleague;noun;16 
+de collega's;the colleagues;noun;16 
+de ex-collega;the ex-colleague;noun;16 
+de ex-collega's;the ex-colleagues;noun;16 
+de professor;the professor;noun;16 
+de professoren;the professors;noun;16 
+de Meneer;the Mr.;noun;16 
+de Mevrouw;the Mrs.;noun;16 
+de baby;the baby;noun;8 
+de baby's;the babies;noun;8 
+de identiteitskaart;the ID card;noun;16 
+de identiteitskaarten;the ID cards;noun;16 
+de vijand;the enemy;noun;8 
+de vijanden;the enemies;noun;8 
+de koffie;the coffee;noun;6 
+het kopje;the cup;noun;6 
+de kopjes;the cups;noun;6 
+het glas;the glass;noun;6 
+de glazen;the glasses;noun;6 
+de melk;the milk;noun;6 
+de thee;the tea;noun;6 
+de whisky;the whiskey;noun;6 
+de vodka;the vodka;noun;6 
+de wijn;the wine;noun;6 
+het bier;the beer;noun;6 
+het fruitsap;the fruit juice;noun;6 
+het sap;the juice;noun;6 
+het water;the water;noun;6 
+de room;the cream;noun;6 
+de fles;the bottle;noun;6 
+de flessen;the bottles;noun;6 
+de auto;the car;noun;15 
+de auto's;the cars;noun;15 
+de bus;the bus;noun;15 
+de bussen;the busses;noun;15 
+de taxi;the taxi;noun;15 
+de taxi's;the taxis;noun;15 
+de trein;the train;noun;15 
+de treinen;the trains;noun;15 
+het vliegtuig;the airplane;noun;15 
+de vliegtuigen;the airplanes;noun;15 
+het ticket;the ticket;noun;15 
+de tickets;the tickets;noun;15 
+de fiets;the bike;noun;15 
+de fietsen;the bikes;noun;15 
+de krant;the newspaper;noun;7 
+de kranten;the newspapers;noun;7 
+het tijdschrift;the magazine;noun;7 
+de tijdschriften;the magazines;noun;7 
+het boek;the book;noun;7 
+de boeken;the books;noun;7 
+de paraplu;the umbrella;noun;1 
+de paraplu's;the umbrellas;noun;1 
+de bril;the glasses (accessories);noun;1 
+de brillen;the many glasses (accessories);noun;1 
+de tas;the bag;noun;1 
+de tassen;the bags;noun;1 
+de student;the student (male);noun;13 
+de studenten;the students;noun;13 
+de studente;the student (female);noun;13 
+de studentes;the students;noun;13 
+de leraar;the teacher;noun;13 
+de leraren;the teachers;noun;13 
+de leraars;the teachers;noun;13 
+de ingenieur;the engineer;noun;16 
+de ingenieurs;the engineers;noun;16 
+de huisvrouw;the housewife;noun;16 
+de huisvrouwen;the housewifes;noun;16 
+de winkelier;the shopkeeper;noun;16 
+de winkeliers;the shopkeepers;noun;16 
+de accountant;the accountant;noun;16 
+de accountants;the accountants;noun;16 
+de marketingmanager;the marketing manager;noun;16 
+de marketingmanagers;the marketing managers;noun;16 
+de docent;the docent (male);noun;13 
+de docenten;the docents;noun;13 
+de docente;the docent (female);noun;13 
+de docentes;the docents;noun;13 
+de filosoof;the philosopher (male);noun;16 
+de filosofe;the philosopher (female);noun;16 
+de filosofen;the philosophers;noun;16 
+de assistEnt;the assistant;noun;16 
+de assistente;the assistant (female);noun;16 
+de assistenten;the assistants;noun;16 
+de assistentes;the assistants;noun;16 
+de universiteit;the university;noun;13 
+de universiteiten;the universities;noun;13 
+de economie;the economics;noun;13 
+de firma;the company;noun;16 
+de firma's;the companies;noun;16 
+de ambtenaar;the govermental worker;noun;16 
+de ambtenaren;the govermental workers;noun;16 
+de ambtenaars;the govermental workers;noun;16 
+de bediende;the clerk;noun;16 
+de bediendes;the clerks;noun;16 
+de bedienden;the clerks;noun;16 
+de dokter;the doctor;noun;16 
+de dokters;the doctors;noun;16 
+de doktoren;the doctors;noun;16 
+de stad;the city;noun;5 
+de steden;the cities;noun;5 
+het hart;the heart;noun;5 
+de harten;the hearts;noun;5 
+het ziekenhuis;the hospital;noun;16 
+de zeikenhuizen;the hospitals;noun;16 
+de computerfirma;the computer company;noun;16 
+de journalist;the journalist;noun;16 
+de journalisten;the journalists;noun;16 
+het departement;the department;noun;16 
+de departementen;the departments;noun;16 
+het land;the country;noun;5 
+de landen;the countried;noun;5 
+het instituut;the institute;noun;13 
+de instituten;the institutes;noun;13 
+het Nederlands;the Dutch (language);noun;5 
+het Frans;the French (language);noun;5 
+het Duits;the Deutch (language);noun;5 
+de taal;the language;noun;5 
+de talen;the languages;noun;5 
+de naam;the name;noun;12 
+de achternaam;the surname;noun;12 
+de voornaam;the name;noun;12 
+de letter;the letter (unit of the alphabet);noun;13 
+de letters;the letters (units of the alphabet);noun;13 
+het alphabet;the alphabet;noun;13 
+de straat;the street;noun;5 
+de straten;the streets;noun;5 
+het beetje;the bit;noun;10 
+de beetjes;the bits;noun;10 
+het artikel;the article;noun;13 
+de artikelen;the articles;noun;13 
+het woord;the word;noun;13 
+de woorden;the words;noun;13 
+de mens;the person;noun;5 
+de mensen;the persons;noun;5 
+de luchthaven;the airport;noun;15 
+de luchthavens;the airports;noun;15 
+de stewardess;the stewardess;noun;16 
+de stewardessen;the stewardesses;noun;16 
+de passagier;the passenger;noun;15 
+de passagiers;the passengers;noun;15 
+het Engeland;the England;noun;5 
+het Rusland;the Russia;noun;5 
+het België;the Belgium;noun;5 
+de reis;the trip;noun;15 
+de reizen;the trips;noun;15 
+het werkwoord;the verb;noun;13 
+de broer;the brother;noun;8 
+de broers;the brothers;noun;8 
+de moeder;the mother;noun;8 
+de moeders;the mothers;noun;8 
+de vader;the father;noun;8 
+de vaders;the fathers;noun;8 
+de geboorteplaats;the birthplace;noun;12 
+de woonplaats;the residence;noun;12 
+het beroep;the profession;noun;16 
+de beroepen;the professions;noun;16 
+de zoon;the son;noun;8 
+de zoonen;the sons;noun;8 
+de zoons;the sons;noun;8 
+de zus;the sister;noun;8 
+de zussen;the sisters;noun;8 
+de dochter;the daughter;noun;8 
+de dochters;the daughtes;noun;8 
+de dochteren;the daughtes;noun;8 
+het feest;the festival;noun;7 
+de feesten;the festivals;noun;7 
+het feestje;the party;noun;7 
+het gezin;the small family;noun;8 
+de gezinnen;the small families;noun;8 
+de familie;the extended family;noun;8 
+de families;the extended families;noun;8 
+de ouders;the parents;noun;8 
+de ouders;the parent;noun;8 
+de winkel;the shop;noun;16 
+de winkels;the shops;noun;16 
+de verpleegkundige;the nurse;noun;16 
+de verpleegkundigen;the nurses;noun;16 
+de dag;the day;noun;14 
+de dagen;the days;noun;14 
+de filosofie;the philosophy;noun;16 
+de kaart;the map;noun;5 
+de kaarten;the maps;noun;5 
+de herkomst;the origin;noun;12 
+de bestemming;the destination;noun;15 
+de vraag;the question;noun;13 
+de vragen;the questions;noun;13 
+het iets;the something;noun;10 
+het centrum;the center;noun;5 
+de centrums;the centers;noun;5 
+de koning;the king;noun;5 
+de koningin;the queen;noun;5 
+de functie;the function;noun;5 
+de functies;the functions;noun;5 
+het ceremonial;the ceremonial (noun);noun;5 
+de Belg;the Belgian;noun;5 
+de Belgen;the Belgians;noun;5 
+de Vlaming;the a citizen of Flanders;noun;5 
+de Vlamingen;the citizens of Flanders;noun;5 
+het Vlaanderen;the Flanders;noun;5 
+het Wallonië;the Wallonia;noun;5 
+de Waal;the a citizen of Wallonia;noun;5 
+de Walen;the citizens of Wallonia;noun;5 
+het noorden;the the North;noun;5 
+het zuiden;the the South;noun;5 
+de inwoner;the inhabitant;noun;5 
+de inwoners;the inhabitants;noun;5 
+de rest;the rest;noun;5 
+de autonomie;the autonomy;noun;5 
+de regio;the region;noun;5 
+de regio's;the regions;noun;5 
+de regering;the government;noun;5 
+het parlement;the parliament;noun;5 
+de groep;the group;noun;5 
+de groepen;the groups;noun;5 
+de hoofdstad;the capital;noun;5 
+de provincie;the province;noun;5 
+de provincies;the provinces;noun;5 
+de staat;the state;noun;5 
+de staten;the states;noun;5 
+de morgen;the morning;noun;14 
+de dag;the day;noun;14 
+de avond;the evening;noun;14 
+het alfabet;the alphabet;noun;13 
+de dranken;the drinks;noun;7 
+de drank;the drink;noun;7 
+het voertuig;the vehicle;noun;15 
+het voertuigen;the vehicles;noun;15 
+de activiteit;the activity;noun;7 
+de relatie;the relationship;noun;8 
+de bankbediende;the bank clerk;noun;16 
+de fotograaf;the photograph;noun;16 
+de fotografe;the photograph;noun;16 
+de kapper;the hairdresser;noun;16 
+de kappers;the hairdressers;noun;16 
+het deel;the part;noun;5 
+de delen;the parts;noun;5 
+de structuur;the structure;noun;5 
+de structuren;the structures;noun;5 
+de bakker;the baker;noun;16 
+de bakkers;the bakers;noun;16 
+de slager;the butcher;noun;16 
+de slaggers;the butchers;noun;16 
+het papier;the paper;noun;13 
+de papieren;the papers;noun;13 
+het adres;the address;noun;12 
+de buur;the neighbour;noun;12 
+de buren;the neighbours;noun;12 
+de republiek;the republic;noun;5 
+het koninkrijk;the kingdom;noun;5 
+de grondwet;the constitution;noun;5 
+de neef;the nephew;noun;8 
+de nicht;the niece;noun;8 
+de tante;the aunt;noun;8 
+de oom;the uncle (official);noun;8 
+de kleinkinderen;the grandchildren;noun;8 
+het kleinkind;the grandkid;noun;8 
+de kleinzoon;the grandson;noun;8 
+de kleindochter;the granddaughter;noun;8 
+de grootvader;the grandfather;noun;8 
+de grootmoeder;the grandmother;noun;8 
+de grootouders;the grandparents;noun;8 
+de schoonzus;the sister-in-law;noun;8 
+de douane;the customs;noun;15 
+het klimaat;the climat;noun;5 
+de boom;the tree;noun;11 
+de bomen;the trees;noun;11 
+de bom;the bomb;noun;10 
+de bommen;the bombs;noun;10 
+de onkel;the uncle (not official);noun;8 
+het onderwijs;the education;noun;13 
+de kwestie;the question / difficulty;noun;13 
+het gesprek;the conversation;noun;7 
+de ceremonie;the ceremony;noun;7 
+de vergadering;the meeting;noun;16 
+het gedrag;the behaviour;noun;10 
+de zee;the sea;noun;11 
+het aroma;the aroma;noun;9 
+de smaak;the taste;noun;9 
+het uniform;the uniform;noun;16 
+het diploma;the diploma;noun;13 
+de gift;the gift;noun;7 
+het gebaar;the gesture;noun;8 
+de zin;the sentence;noun;13 
+het inkomen;the income;noun;16 
+de hymne;the anthem;noun;5 
+de vlag;the flag;noun;5 
+het verhaal;the story;noun;7 
+de jurk;the dress;noun;4 
+de vakantie;the holiday;noun;15 
+het weekend;the weekend;noun;14 
+het weer;the weather;noun;5 
+het adreskaartje;the business card;noun;12 
+de moedertaal;the mother language;noun;12 
+de citroen;the lemon;noun;9 
+de cultuur;the culture;noun;5 
+de kip;the chicken;noun;2 
+de kippen;the chickens;noun;2 
+de ster;the star;noun;11 
+de sterren;the stars;noun;11 
+de kat;the cat;noun;2 
+de katten;the cats;noun;2 
+de bal;the ball;noun;7 
+de ballen;the balls;noun;7 
+het been;the leg;noun;3 
+de benen;the legs;noun;3 
+de controle;the control;noun;10 
+de bagage;the baggage;noun;15 
+de koffer;the suitcase;noun;15 
+de koffers;the suitcases;noun;15 
+het e-mainadres;the email (address);noun;12 
+het telefoonnummer;the telephone number;noun;12 
+het huisnummer;the house number;noun;12 
+warm;hot;adjective;6 
+koud;cold;adjective;6 
+getrouwde;married;adjective;8 
+gescheiden;divorced;adjective;8 
+academisch;academic;adjective;13 
+formeel;formal;adjective;5 
+informeel;informal;adjective;5 
+interessant;interesting;adjective;13 
+goed;good;adjective;10 
+prettig;pleasant;adjective;15 
+dood;dead;adjective;8 
+ander;other;adjective;8 
+jong;young;adjective;8 
+complex;complex;adjective;5 
+ceremonieel;ceremonial;adjective;5 
+officieel;official;adjective;5 
+autonoom;autonomous;adjective;5 
+symbolisch;symbolic;adjective;5 
+linguïstische;linguistic;adjective;5 
+nationaal;national;adjective;5 
+federaal;federal;adjective;5 
+juist ;correct;adjective;13 
+duur;expensive;adjective;4 
+kort;short;adjective;10 
+lang;long;adjective;10 
+uitstekend;outstanding;adjective;12 
+verschrikkelijk;terrible;adjective;12 
+Ik drink;I drink;verb;6 
+Je drinkt;You drink;verb;6 
+U drinkt;You (singular, formal) drink;verb;6 
+Hij drinkt;He drinks;verb;6 
+Ze drinkt;She drinks;verb;6 
+We drinken;We drink;verb;6 
+Jullie drinken;You (plural, informal) drink;verb;6 
+Ze drinken;They drink;verb;6 
+Ik lees;I read;verb;7 
+Je leest;You read;verb;7 
+U leest;You (singular, formal) read;verb;7 
+Hij leest;He reads;verb;7 
+Ze leest;She reads;verb;7 
+We lezen;We read;verb;7 
+Jullie lezen;You (plural, informal) read;verb;7 
+Ze lezen;They read;verb;7 
+Ik draag;I wear;verb;4 
+Je draagt;You wear;verb;4 
+U draagt;You (singular, formal) wear;verb;4 
+Hij draagt;He wears;verb;4 
+Ze draagt;She wears;verb;4 
+We dragen;We wear;verb;4 
+Jullie dragen;You (plural, informal) wear;verb;4 
+Ze dragen;They wear;verb;4 
+Ik werk;I work;verb;16 
+Je werkt;You work;verb;16 
+U werkt;You (singular, formal) work;verb;16 
+Hij werkt;He works;verb;16 
+Ze werkt;She works;verb;16 
+We werken;We work;verb;16 
+Jullie werken;You (plural, informal) work;verb;16 
+Ze werken;They work;verb;16 
+Ik ben;I am;verb;12 
+Je bent;You are;verb;12 
+U bent;You (singular, formal) are;verb;12 
+Hij is;He is;verb;12 
+Ze is;She is;verb;12 
+We zijn;We are;verb;12 
+Jullie zijn;You (plural, informal) are;verb;12 
+Ze zijn;They are;verb;12 
+Ik heet;I am called;verb;12 
+Je heet;You are called;verb;12 
+U heet;You (singular, formal) are called;verb;12 
+Hij heet;He is called;verb;12 
+Ze heet;She is called;verb;12 
+We heten;We are called;verb;12 
+Jullie heten;You (plural, informal) are called;verb;12 
+Ze heten;They are called;verb;12 
+Ik kom;I come;verb;12 
+Je komt;You come;verb;12 
+U komt;You (singular, formal) come;verb;12 
+Hij komt;He comes;verb;12 
+Ze komt;She comes;verb;12 
+We komen;We come;verb;12 
+Jullie komen;You (plural, informal) come;verb;12 
+Ze komen;They come;verb;12 
+Ik spreek;I speak;verb;12 
+Je spreekt;You speak;verb;12 
+U spreekt;You (singular, formal) speak;verb;12 
+Hij spreekt;He speaks;verb;12 
+Ze spreekt;She speaks;verb;12 
+We spreken;We speak;verb;12 
+Jullie spreekt;You (plural, informal) speak;verb;12 
+Ze spreekt;They speak;verb;12 
+Ik studeer;I study;verb;13 
+Je studeert;You study;verb;13 
+U studeert;You (singular, formal) study;verb;13 
+Hij studeert;He studies;verb;13 
+Ze studeert;She studies;verb;13 
+We studeren;We study;verb;13 
+Jullie studeren;You (plural, informal) study;verb;13 
+Ze studeren;They study;verb;13 
+Ik woon;I live;verb;12 
+Je woont;You live;verb;12 
+U woont;You (singular, formal) live;verb;12 
+Hij woont;He lives;verb;12 
+Ze woont;She lives;verb;12 
+We wonen;We live;verb;12 
+Jullie wonen;You (plural, informal) live;verb;12 
+Ze wonen;They live;verb;12 
+Ik ga;I go;verb;10 
+Je gaat;You go;verb;10 
+U gaat;You (singular, formal) go;verb;10 
+Hij gaat;He goes;verb;10 
+Ze gaat;She goes;verb;10 
+We gaan;We go;verb;10 
+Jullie gaan;You (plural, informal) go;verb;10 
+Ze gaan;They go;verb;10 
+Ik do;I do;verb;10 
+Je doet;You do;verb;10 
+U doet;You (singular, formal) do;verb;10 
+Hij doet;He does;verb;10 
+Ze doet;She does;verb;10 
+We doen;We do;verb;10 
+Jullie doen;You (plural, informal) do;verb;10 
+Ze doen;They do;verb;10 
+Ik maak;I make;verb;10 
+Je maakt;You make;verb;10 
+U maakt;You (singular, formal) make;verb;10 
+Hij maakt;He makes;verb;10 
+Ze maakt;She makes;verb;10 
+We maken;We make;verb;10 
+Jullie maken;You (plural, informal) make;verb;10 
+Ze maken;They make;verb;10 
+Ik lig;I lay;verb;10 
+Je ligt;You lay;verb;10 
+U ligt;You (singular, formal) lay;verb;10 
+Hij ligt;He lays;verb;10 
+Ze ligt;She lays;verb;10 
+We liggen;We lay;verb;10 
+Jullie liggen;You (plural, informal) lay;verb;10 
+Ze liggen;They lay;verb;10 
+Ik wacht;I wait;verb;10 
+Je wacht;You wait;verb;10 
+U wacht;You (singular, formal) wait;verb;10 
+Hij wacht;He waits;verb;10 
+Ze wacht;She waits;verb;10 
+We wachten;We wait;verb;10 
+Jullie wachten;You (plural, informal) wait;verb;10 
+Ze wachten;They wait;verb;10 
+Ik zeg;I say;verb;10 
+Je zegt;You say;verb;10 
+U zegt;You (singular, formal) say;verb;10 
+Hij zegt;He says;verb;10 
+Ze zegt;She says;verb;10 
+We zeggen;We say;verb;10 
+Jullie zeggen;You (plural, informal) say;verb;10 
+Ze zeggen;They say;verb;10 
+Ik neem;I take;verb;10 
+Je neemt;You take;verb;10 
+U neemt;You (singular, formal) take;verb;10 
+Hij neemt;He takes;verb;10 
+Ze neemt;She takes;verb;10 
+We nemen;We take;verb;10 
+Jullie nemen;You (plural, informal) take;verb;10 
+Ze nemen;They take;verb;10 
+Ik mag;I may;verb;10 
+Je mag;You may;verb;10 
+U mag;You (singular, formal) may;verb;10 
+Hij mag;He may;verb;10 
+Ze mag;She may;verb;10 
+We mogen;We may;verb;10 
+Jullie mogen;You (plural, informal) may;verb;10 
+Ze mogen;They may;verb;10 
+Ik lach;I smile;verb;10 
+Je lacht;You smile;verb;10 
+U lacht;You (singular, formal) smile;verb;10 
+Hij lacht;He smiles;verb;10 
+Ze lacht;She smiles;verb;10 
+We lachen;We smile;verb;10 
+Jullie lachen;You (plural, informal) smile;verb;10 
+Ze lachen;They smile;verb;10 
+welcom aan boord;welcom on board;other;15 
+tot ziens;see you!;other;15 
+een beetje;a bit;other;10 
+hè;isn't it;other;10 
+de meeste;the most;other;10 
+we wonen samen;we live together;other;8 
+dank u wel;thank you a lot (formal);other;10 
+jullie zijn here ook;you are also here;other;15 
+ik ga naar Berlijn;I'm going to Berlin;other;15 
+dank je;thank you (informal);other;10 
+prettige reis;pleasant trip;other;15 
+op een feestje;at a party;other;7 
+al lang;for long;other;8 
+het hart van de stad;the heart of the city;other;5 
+nog iets?;anything else?;other;10 
+waar kom je vandaan?;where did you come from?;other;12 
+waar ga je naartoe?;where are you going?;other;15 
+met vacantie;on holiday;other;15 
+op het einde;at the end;other;10 
+Ik ben heel moe;I'm very tired;other;12 
+Hoe gaat het ermee?;How is it going?;other;12 
+Hoe gaat het met jou?;How is it going with you(!)?;other;12 
+Hoe is het met jou?;How is it with you(!)?;other;12 
+Hoe gaat het?;How is it going?;other;12 
+Hoe is het?;How is it?;other;12 
+Uitstekend;Outstanding;other;12 
+Prima;Perfect;other;12 
+Heel goed;Very good;other;12 
+Goed;Good;other;12 
+Het gaat wel;it’s ok;other;12 
+Niet zo goed;Not so good;other;12 
+Niet zo best;Not the best;other;12 
+Slecht;Bad;other;12 
+Verschrikkelijk;Terrible;other;12 
+Alstublieft;Please;other;12 
+Els en Bram wonen bij hun moeder;Els and Bram live with their mother;other;8
