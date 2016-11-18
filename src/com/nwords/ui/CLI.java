@@ -139,8 +139,8 @@ public class CLI implements IUInteractor {
         }
         System.out.println(word + " :");
         Scanner in = new Scanner(System.in);
-        String input = in.nextLine();
-        if (input.equals(translation)) {
+        String input = in.nextLine().toLowerCase();
+        if (input.equals(translation.toLowerCase())) {
             System.out.println("Correct!\n");
             return trials;
         }
@@ -179,13 +179,12 @@ public class CLI implements IUInteractor {
             Scanner in = new Scanner(System.in);
             String command = in.nextLine().toLowerCase();
 
-            if (command.equals("/exit")) exit();
-            else if (command.equals("/help")) getHelp();
-            else if (command.equals("/train")) trainWordsAndUpdateAccordingResults();
-                //else if (command.equals("/eng")) trainVocabulary(0, StorageGetter.mysqlDB());
-                //else if (command.equals("/ned")) trainVocabulary(1, StorageGetter.mysqlDB());
-                //else if (command.equals("/verbs")) trainVocabulary(1, StorageGetter.mysqlDB());
-            else System.out.println(command);
+            switch (command) {
+                case "/exit" : exit();
+                case "/help" : getHelp();
+                case "/train" : trainWordsAndUpdateAccordingResults();
+                default : System.out.println("There is no such a command: " + command);
+            }
             System.out.println();
         }
 
