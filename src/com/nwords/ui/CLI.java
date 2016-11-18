@@ -170,7 +170,8 @@ public class CLI implements IUInteractor {
             wordsTrained++;
             interactor.updateWord(w);
         }
-        System.out.println("Your score is: " + score + " / " + wordsTrained);
+        if (words.size() > 0) System.out.printf("Your score is: %.2f / %.2f\n" , score ,  wordsTrained);
+        else System.out.println("There is no words to train\n");
     }
 
     public void run() throws Exception {
@@ -180,9 +181,9 @@ public class CLI implements IUInteractor {
             String command = in.nextLine().toLowerCase();
 
             switch (command) {
-                case "/exit" : exit();
-                case "/help" : getHelp();
-                case "/train" : trainWordsAndUpdateAccordingResults();
+                case "/exit" : exit(); break;
+                case "/help" : getHelp(); break;
+                case "/train" : trainWordsAndUpdateAccordingResults(); break;
                 default : System.out.println("There is no such a command: " + command);
             }
             System.out.println();
