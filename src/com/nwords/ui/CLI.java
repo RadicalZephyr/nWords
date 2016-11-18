@@ -85,8 +85,8 @@ public class CLI implements IUInteractor {
         System.out.println("\nEnter the number of the word type or press ENTER to train all types\n");
         ArrayList<Type> types = getWordTypes();
         String type = "";
-        for (Type t : types) {
-            System.out.println(t.id + " : " + t.name);
+        for (int i=0; i<types.size(); i++) {
+            System.out.println(i+1 + " : " + types.get(i).name);
         }
         System.out.println();
         Scanner in = new Scanner(System.in);
@@ -98,7 +98,7 @@ public class CLI implements IUInteractor {
         else {
             try {
                 int chosenType = Integer.parseInt(userInput);
-                type = types.get(chosenType).name;
+                type = types.get(chosenType-1).name;
             } catch (Exception e) {
                 if (e instanceof NumberFormatException)
                     throw new NotValidInput("You entered " + userInput + " instead of a number");
@@ -115,8 +115,7 @@ public class CLI implements IUInteractor {
         Integer maxNumOfWords = getMaxNumOfWordsFromUser();
         Integer cat = getCategoryFromUser();
         String wordType = getWordTypeFromUser();
-        Parameters p = new Parameters(maxNumOfWords, cat, wordType);
-        return p;
+        return new Parameters(maxNumOfWords, cat, wordType);
     }
 
     public ArrayList<Category> getWordCategories() throws Exception {

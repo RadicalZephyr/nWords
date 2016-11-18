@@ -25,7 +25,7 @@ public class TrainingInteractor {
     public ArrayList<Word> getWordsForTraining(Parameters p) throws Exception {
         WordType wordType = null;
         try {
-            WordType.valueOf(p.wordType);
+            wordType = WordType.valueOf(p.wordType);
         } catch (java.lang.IllegalArgumentException e) {
         }
         TrainingParameters params = new TrainingParameters(p.maxNumOfWords, p.category, wordType);
